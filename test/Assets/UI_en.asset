@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c23bfd6bf32c8c345a20fdceb362087f, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 7684128617431826435
+  m_TableData:
+  - m_Id: 7927074816
+    m_Localized: "The \"Pas Giannena: Day Architect\" project was made for the course
+      \"\u039C\u03A5\u0395001: Human - Computer Interaction\" of the CSE department,
+      at University of Ioannina. \n\nThe project was a group effort by:\nDedousi
+      Lemonia, 4348\n\u0392inas Basilis, 4434\r\n\u0392intzilaiou Nikoletta, 4435\nTaflampas
+      Nikolaos, 4500\n\nWe hope you enjoy. \nThank you!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1777789145088
+    m_Localized: 'About this interactive project:'
+    m_Metadata:
+      m_Items:
+      - rid: 7684128617431826435
+  - m_Id: 87762145218560
+    m_Localized: Start as a User
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88843612950528
+    m_Localized: Start as a Business Manager
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93985762545664
+    m_Localized: Let's plan your day!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94246497259520
+    m_Localized: Plan your day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94295281209344
+    m_Localized: Browse options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95152127184896
+    m_Localized: Make a plan by selecting your personal preferences.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95244276043776
+    m_Localized: Browse all possible options for your outing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98852463808512
+    m_Localized: 'I want to be recommended child-friendly places :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98945933873152
+    m_Localized: 'I want to be recommended accessible places :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99456347115520
+    m_Localized: Your choices will be saved automatically when you move to the next
+      page.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99752624361472
+    m_Localized: In case you have children or have some kind of disability, check
+      the boxes that apply to you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101491876401152
+    m_Localized: next page
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101430853472256
+    m_Localized: previous page
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103553330679808
+    m_Localized: Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103677184282624
+    m_Localized: 'All available places:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104056722657280
+    m_Localized: Are you sure you want to exit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104534856536064
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104619971547136
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104991872094208
+    m_Localized: help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105432508895232
+    m_Localized: quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105736910508032
+    m_Localized: Scroll through the list of all available places to visit by using
+      the scroll bars or clicking and dragging with your mouse.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106422716960768
+    m_Localized: 'Explore the map by using the scroll bars, clicking and dragging
+      with your mouse or zooming in/out with your mouse wheel. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107697768599552
+    m_Localized: Click on a pin to see information about a specific place of interest.
+      Click it again for the information to disappear.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112217135353856
+    m_Localized: Close help panel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127864535879680
+    m_Localized: Settings/More
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128004554330112
+    m_Localized: 'Select a language:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 839509235044352
+    m_Localized: Some places are too far from the city center shown in the map. Click
+      on the arrow to learn more information about them. Click it again for the information
+      to disappear.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 864084551372800
+    m_Localized: 'Accessibility features:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 864425187577856
+    m_Localized: Enable Screen Reader (only in english)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 866785888669696
+    m_Localized: More / About the team
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 7684128617431826435
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00907dec9d010000
